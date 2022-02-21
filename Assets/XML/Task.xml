@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task>
+  <Test>
+    [Event "Rated Blitz game"]
+    [Site "https://lichess.org/zQUhlmHJ"]
+    [Date "2022.02.16"]
+    [White "tigra522"]
+    [Black "Birani"]
+    [Result "0-1"]
+    [UTCDate "2022.02.16"]
+    [UTCTime "02:20:22"]
+    [WhiteElo "2537"]
+    [BlackElo "2712"]
+    [WhiteRatingDiff "-3"]
+    [BlackRatingDiff "+3"]
+    [Variant "Standard"]
+    [TimeControl "180+0"]
+    [ECO "B96"]
+    [Opening "Sicilian Defense: Najdorf Variation"]
+    [Termination "Normal"]
+    1.e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. e5 dxe5 12. fxe5 g5 13. Bf2 Ng4 14. Bg3 Bg7 15. Be2 Nxe5 16. O-O O-O 17. Ne4 f5 18. Rb3 Qe7 0-1
+  </Test>
+  <Test2>
+    [Event "Rated Rapid game"]
+    [Site "https://lichess.org/D1JJy3TX"]
+    [Date "2022.02.15"]
+    [White "AbdR75"]
+    [Black "Zakhrulloev"]
+    [Result "0-1"]
+    [UTCDate "2022.02.15"]
+    [UTCTime "10:08:55"]
+    [WhiteElo "2162"]
+    [BlackElo "2136"]
+    [WhiteRatingDiff "-6"]
+    [BlackRatingDiff "+7"]
+    [Variant "Standard"]
+    [TimeControl "600+0"]
+    [ECO "C36"]
+    [Opening "King's Gambit Accepted: Modern Defense"]
+    [Termination "Normal"]
+
+    1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Bg4 5. c4 Nf6 6. d3 Bc5 7. d4 Bxf3 8. gxf3 Bb4+ 9. Nc3 O-O 10. Bxf4 c6 11. d6 Bxd6 12. Bg5 Nbd7 13. Qd3 Re8+ 14. Be2 Qa5 15. O-O-O Qxg5+ 0-1
+
+  </Test2>
+  
+</Task>
